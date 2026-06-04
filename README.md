@@ -136,7 +136,7 @@ Techniques applied:
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/Mohamedsadek12/Game-Recommendation-Predictor
 cd Online-Games-Popularity-Prediction
 ```
 
@@ -199,9 +199,11 @@ joblib
 ---
 
 ## 👥 Contributors
-
-> Add your team members here.
-
+Ahmed Hany
+Mahmoud Hossam
+zeyad salah
+yousef mahmoud
+Abdelhakim Ahmed
 ---
 
 ## 📄 License
