@@ -2,7 +2,7 @@
 
 > A machine learning pipeline for predicting the popularity of Steam games using regression and multi-class classification — combining structured data, advanced feature engineering, and NLP.
 
-🌐 [Live App](https://gamerecommendationpredictor.streamlit.app/) &nbsp;|&nbsp;
+🌐 [Live App](https://gamerecommendationpredictor.streamlit.app/) &nbsp;
 
 ---
 
